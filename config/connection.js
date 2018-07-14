@@ -10,7 +10,7 @@ if(process.env.JAWSDB_URL) {
         host: "g9fej9rujq0yt0cd.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
         user: "j9hb5akz698iteok",
         password: "ecweslityerimwuk",
-        database: "	lgb8kdr58u1t24e6"
+        database: "	lgb8kdr58u1t24e6",
     });
 };
 
