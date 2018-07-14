@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Brianstewart18/Burger/issues"
   },
-  "homepage": "https://github.com/Brianstewart18/burger/views/index.handlebars",
+  "homepage": "https://github.com/Brianstewart18/burger/Burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
